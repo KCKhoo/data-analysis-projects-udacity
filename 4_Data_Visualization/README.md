@@ -1,8 +1,5 @@
 # (Effects of Loan Features on Loan's Status Outcome)
 
-## by (Khoo Kian Chong)
-
-
 ## Dataset
 
 >This document explores Prosper Loan dataset which contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. The explanation for each variable can be found [here](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0).
