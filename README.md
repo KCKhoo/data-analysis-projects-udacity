@@ -38,4 +38,4 @@ the data is cleaned based on the issues found in assessment.
 
 ### Project 4 - Data Visualization
 Data visualization and wrangling is performed on a loan dataset, with the aim of finding out features that are useful in predicting the loan's outcome status via 
-analysis and visualization.
+analysis and visualization. Summary of findings can be found [here](https://github.com/KCKhoo/data-analysis-projects-udacity/tree/main/4_Data_Visualization).
