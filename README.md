@@ -1,13 +1,13 @@
 # Data Analysis Projects - Udacity Data Analyst Nanodegree
 
-## Programming language
+## Programming Language
 - Python
 
 ## Tools
 - Jupyter Notebook
 - Anaconda
 
-## Common libraries
+## Common Libraries
 - Numpy
 - Pandas
 - Matplotlib
@@ -15,7 +15,7 @@
 
 and additional libraries listed in the notebook for each project
 
-## Project description
+## Project Description
 
 ### Project 1 - Exploratory Data Analysis
 Exploratory data analysis is performed on a medical appointment records dataset, with the aim of determining the characteristics about the patient that are correlated with 
