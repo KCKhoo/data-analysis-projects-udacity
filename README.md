@@ -8,10 +8,10 @@
 - Anaconda
 
 ## Common Libraries
-- Numpy
-- Pandas
-- Matplotlib
-- Seaborn
+- numpy
+- pandas
+- matplotlib
+- seaborn
 
 and additional libraries listed in the notebook for each project
 
